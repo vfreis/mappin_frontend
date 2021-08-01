@@ -82,7 +82,7 @@ function App() {
     <div className="App">
       <ReactMapGL
       {...viewport}
-      mapboxApiAccessToken={"pk.eyJ1IjoibWFyaW9mcm9taGVsbCIsImEiOiJja3JtNWswdm01dTdzMm9wZHVwZHJ4NWdrIn0.Qih89LfBLYu-8_GmFq-7Lg"}
+      mapboxApiAccessToken="pk.eyJ1IjoibWFyaW9mcm9taGVsbCIsImEiOiJja3JtNWswdm01dTdzMm9wZHVwZHJ4NWdrIn0.Qih89LfBLYu-8_GmFq-7Lg"
       onViewportChange={nextViewport => setViewport(nextViewport)}
 	  mapStyle="mapbox://styles/mariofromhell/ckrm7i5se0nhm18ly33izm5ar"
 	  onDblClick = {handleAddClick}
