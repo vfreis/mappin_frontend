@@ -40,5 +40,8 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://eteraltech-backend.herokuapp.com/api"
+  // "proxy": "https://eteraltech-backend.herokuapp.com/api",
+  "devDependencies": {
+    "@babel/preset-react": "^7.14.5"
+  }
 }
