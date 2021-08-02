@@ -1,0 +1,1 @@
+  // "proxy": "https://eteraltech-backend.herokuapp.com/api"
